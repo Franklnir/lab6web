@@ -86,7 +86,7 @@
 
 
 
- <h1">Selamat Datang di Profil Saya</h1>
+ <h1">Selamat Datang di Profil Saya
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg,  #19cbeb,#006aff, #fe54f0d6);
