@@ -1,7 +1,12 @@
 ![image](https://github.com/user-attachments/assets/21628f3b-c636-4a8e-aca0-134e24549010)
 
 # lab6web
-
+1. Navigasi: Menyediakan link menuju bagian-bagian penting di halaman seperti Beranda, Proyek Saya, dan Kontak, serta memiliki fitur responsif agar tampil dengan baik di berbagai ukuran layar.
+2. Header: Bagian pembuka yang menyambut pengunjung dengan informasi singkat tentang Irsyad dan dilengkapi dengan tombol untuk melihat proyek yang telah dikerjakannya.
+3. Konten Proyek: Menampilkan beberapa proyek yang sedang dikerjakan, menggunakan komponen card untuk setiap proyek dengan tombol untuk melihat rincian lebih lanjut.
+4. Footer: Menyediakan informasi hak cipta yang mencantumkan nama Irsyad dan jurusan yang diambilnya.
+5. Bootstrap: Digunakan untuk styling halaman dan memastikan tampilan tetap responsif di berbagai perangkat.
+    
 <!DOCTYPE html>
 <html lang="id">
 <head>
