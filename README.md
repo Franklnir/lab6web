@@ -72,6 +72,7 @@
       </div>
     </div>
   </main>
+    
     <footer class="bg-dark text-white text-center py-3">
       <div class="container">
         <p>&copy; 2024 Irsyad - Mahasiswa Teknik Informatika, Universitas Pelita Bangsa</p>
@@ -86,7 +87,8 @@
 
 
 
- <h1">Selamat Datang di Profil Saya
+# style css
+
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg,  #19cbeb,#006aff, #fe54f0d6);
@@ -190,3 +192,6 @@ nav .auth-buttons .signup {
 .card-text {
     color: #555;
 }
+
+![image](https://github.com/user-attachments/assets/21628f3b-c636-4a8e-aca0-134e24549010)
+
