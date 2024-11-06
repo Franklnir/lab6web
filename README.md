@@ -95,6 +95,10 @@
 
 
 # style css
+ <h1Card (Proyek):
+Setiap proyek ditampilkan dalam bentuk card yang memiliki bayangan untuk memberikan kesan modern.
+Card menggunakan warna cerah dan teks yang jelas dan mudah dibaca.
+Chat Button: Terdapat tombol chat yang selalu terlihat di sudut kanan bawah dengan desain bulat dan warna biru.</h1>
 
 body {
     font-family: Arial, sans-serif;
