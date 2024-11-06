@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/21628f3b-c636-4a8e-aca0-134e24549010)
+
 # lab6web
 
 <!DOCTYPE html>
@@ -193,5 +195,5 @@ nav .auth-buttons .signup {
     color: #555;
 }
 
-![image](https://github.com/user-attachments/assets/21628f3b-c636-4a8e-aca0-134e24549010)
+
 
